@@ -1,0 +1,11 @@
+This editor does not support Grow Lancer Character Class. After editing GL in Essential, character class code is changed to "0".
+In order to change the class code back to Grow Lancer/Mirage Lancer, open Character table
+in MuOnline database ( using SQL Management Tool ) and edit "Class" column for chosen character:
+
+* Grow Lancer - 112
+* Mirage Lancer - 114
+
+VIDEO Guide for editing Grow Lancer and Ruud: http://muemu.pl/ips/index.php?/growlancerruud/
+
+
+Editor does support Grow Lancer items.

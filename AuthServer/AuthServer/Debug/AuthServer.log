@@ -1,0 +1,15 @@
+﻿  stdafx.cpp
+  Util.cpp
+  SocketManager.cpp
+  ServerDisplayer.cpp
+  Queue.cpp
+  QueryManager.cpp
+  MiniDump.cpp
+  Log.cpp
+  IpManager.cpp
+  CriticalSection.cpp
+  ClientManager.cpp
+  AuthServerProtocol.cpp
+  AuthServer.cpp
+  Generating Code...
+  AuthServer.vcxproj -> C:\Users\Rafael\Desktop\Source s12\AuthServer\Debug\AuthServer.exe
